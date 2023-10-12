@@ -66,12 +66,8 @@ We welcome contributions to enhance and expand the capabilities of this Google S
 4. Push your changes to your fork.
 5. Submit a pull request to the `main` branch of this repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was developed as a demonstration of web development capabilities, API integration, and CSS styling using Tailwind CSS. We appreciate Google for providing the inspiration and the Google Search API for making this project possible.
 
-Enjoy using the Google Search Clone built with Next.js, the Google API, and Tailwind CSS! For questions or suggestions, feel free to [contact us](mailto:contact@yourwebsite.com). Happy searching!
+Enjoy using the Google Search Clone built with Next.js, the Google API, and Tailwind CSS. Happy searching!
